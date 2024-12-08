@@ -1,25 +1,27 @@
 {
-  "usuarios": [
+  "avaliacoes": [
     {
-      "id": 1,
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "1c22",
+      "filmeId": 445571,
+      "nota": 5
+    }
+  ],
+  "favoritos": [
+    {
+      "id": "2d69",
+      "filmeId": 445571
     },
     {
-      "id": 2,
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "c533",
+      "filmeId": 640
     },
     {
-      "login": "rommel",
-      "senha": "123",
-      "nome": "Rommel",
-      "email": "rommel@gmail.com",
-      "id": 3
+      "id": "05c2",
+      "filmeId": 16869
+    },
+    {
+      "id": "9945",
+      "filmeId": 466272
     }
   ]
 }
